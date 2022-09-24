@@ -8,7 +8,7 @@
 
 # PPT LINK   
 
-https://docs.google.com/presentation/d/1k1v1F7Ft7TX9NA1ggKFFN30UAaXkWGME/edit#slide=id.p1  
+https://docs.google.com/presentation/d/10c3Czkyu1AneitlFpi4hUaaQAp-YbXYN/edit?usp=sharing&ouid=100222135162321508594&rtpof=true&sd=true 
 
 
 
