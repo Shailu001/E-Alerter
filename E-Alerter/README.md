@@ -21,7 +21,7 @@ https://docs.google.com/presentation/d/1k1v1F7Ft7TX9NA1ggKFFN30UAaXkWGME/edit#sl
 #  PROGRAMMING STACK
 
 - JAVA
-- 
+
 
 
 # SMALL EXPLANATION
