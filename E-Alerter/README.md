@@ -1,15 +1,9 @@
-# TEAM DIVINE  
-
-HACKNAGPUR PROJECT  
-
-# TO SEE THE WORKING OF THIS IN THE WEBSITE     
-
-https://divine-hacknagpur.netlify.app/    
 
 
-# YOUTUBE LINK    
+# E-Alert
 
-https://www.youtube.com/watch?v=mptoHag0YEU    
+
+  
 
 
 # PPT LINK   
@@ -18,27 +12,16 @@ https://docs.google.com/presentation/d/1k1v1F7Ft7TX9NA1ggKFFN30UAaXkWGME/edit#sl
 
 
 
-# 🔨Languages and Tools🔨  
-
-<img align="left" alt="java" width="22px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />    
-<img align="left" alt="python" width="22px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark.png" />    
-<img align="left" alt="git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />    
-<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /> .      
-
-
 # SKILLS
 
 - ANDRIOD DEVELOPMENT
 - UI/UX DESIGINER
-- WEB DEVELOPER
-- CYBER SECURITY
 
 
 #  PROGRAMMING STACK
 
 - JAVA
-- PYTHON
-- NODE.JS
+- 
 
 
 # SMALL EXPLANATION
