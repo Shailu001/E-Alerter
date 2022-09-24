@@ -40,8 +40,5 @@ WE DEVELOPED HAVE DESIGNED AN SIMPLE AND SOPHISITICATED APP SO THAT ANY ONE CAN 
 ![alt text](https://github.com/nabaratanpatra/DIVINE/blob/main/Screensort/load3.JPG?raw=true)
 ![alt text](https://github.com/nabaratanpatra/DIVINE/blob/main/Screensort/load4.JPG?raw=true)
 ![alt text](https://github.com/nabaratanpatra/DIVINE/blob/main/Screensort/load5.JPG?raw=true)
-![alt text](https://github.com/nabaratanpatra/DIVINE/blob/main/Screensort/load6.JPG?raw=true)
 
-
-# SNAPSHOTS OF WORKING OF APP 
 
