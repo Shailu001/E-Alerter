@@ -25,12 +25,12 @@ https://docs.google.com/presentation/d/1k1v1F7Ft7TX9NA1ggKFFN30UAaXkWGME/edit#sl
 
 
 # SMALL EXPLANATION
+-Instant messges to closer friends when your in emergency
+-Manual alert in just onr click
+-The user can easily call the police, ambulance, fire brigade
+-You don't need network you can use gps(global positioning system)
+-Developed have designed an simple and sophisiticated app so that any one can use
 
-INSTANT MESSGES TO CLOSER FRIENDS WHEN YOUR IN EMERGENCY  
-MANUAL ALERT IN JUST ONR CLICK  
-THE USER CAN EASILY CALL THE POLICE, AMBULANCE, FIRE BRIGADE  
-YOU DON'T NEED NETWORK YOU CAN USE GPS(GLOBAL POSITIONING SYSTEM)  
-WE DEVELOPED HAVE DESIGNED AN SIMPLE AND SOPHISITICATED APP SO THAT ANY ONE CAN USE   
 
 
 # SNAPSHOTS LANDING PAGE / EXPLANATION 
